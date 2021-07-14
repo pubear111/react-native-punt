@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "punter",
+    "slug": "punter",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.1.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.punter.eugene"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.punter.eugene"
+    },
+    "description": ""
+  }
+}
